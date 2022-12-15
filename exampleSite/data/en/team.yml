@@ -11,7 +11,11 @@ team:
     social:
     - icon: ti-link
 <<<<<<< HEAD
+<<<<<<< HEAD
       link: https://www.ekahau.com/training/ecse-design 
+=======
+    link: <https://www.ekahau.com/training/ecse-design>
+>>>>>>> parent of d9b7fad (Update team.yml)
 =======
     link: <https://www.ekahau.com/training/ecse-design>
 >>>>>>> parent of d9b7fad (Update team.yml)
