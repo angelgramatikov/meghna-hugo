@@ -19,7 +19,7 @@ team:
     content: ''
     social:
     - icon: ti-link
-      link: https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/professional/ccnp-enterprise.html
+       (https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/professional/ccnp-enterprise.html)
   - name: Cisco ENWLSD
     image_webp: images/team/Specialist.webp
     image: images/team/Specialist.jpg
