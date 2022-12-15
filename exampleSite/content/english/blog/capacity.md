@@ -7,7 +7,6 @@ author: wifi-ninja
 description: 'wi-fi, design, capacity, best practice '
 
 ---
-[https://www.example.com](https://www.example.com)
 Adopting the right approach to Wi-Fi is critical to increase reliance on Wi-Fi networks as a mission-critical resource. Supporting the growing quantity of wireless devices and delivering high performance that meets or exceeds user expectations is key to a successful WLAN.
 
 Historically, many Wi-Fi networks have been designed to provide basic coverage throughout a desired service area. While a “coverage-oriented” design can meet basic Wi-Fi network access needs, supporting only a few users and light workload, a different approach is required to support a growing Wi-Fi client population. Modern Wi-Fi networks should be designed to accommodate the current and anticipated capacity and performance levels within the organization rather than focusing on providing basic coverage.
@@ -43,3 +42,5 @@ The process of requirements gathering and network design might need to be perfor
 Network configuration translates the design requirements into a working WLAN deployment tailored for high-density environments. You can only accomplish this using advanced feature sets found in enterprise-grade Wi-Fi equipment. Therefore, an intelligent Wi-Fi infrastructure is required to accommodate client devices that are designed for home use within a complex multi-AP enterprise deployment. Enterprise-grade equipment includes high-quality hardware components that enhance network performance with consumer-oriented client devices and advanced features that optimize the use of an inherently unbounded and shared medium.
 
 Finally, network monitoring and optimization allows you to fine-tune the deployment based on observed network performance after deployment. The network management system provides statistics collection and reporting on key metrics relevant to successful operation of the wireless network, allowing you to identify and correct unforeseen design or performance flaws.
+
+[def]: https://www.example.com
