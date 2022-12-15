@@ -13,6 +13,7 @@ team:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       link: https://www.ekahau.com/training/ecse-design 
 =======
     link: <https://www.ekahau.com/training/ecse-design>
@@ -23,6 +24,9 @@ team:
 =======
     link: (https://www.ekahau.com/training/ecse-design "ECSE")
 >>>>>>> parent of d814289 (master)
+=======
+    link: <https://www.markdownguide.org> 
+>>>>>>> parent of 164e4ba (master)
   - name: Cisco CCNP Enterprise (ENCOR)
     image_webp: images/team/CCNP.webp
     image: images/team/CCNP.jpg
