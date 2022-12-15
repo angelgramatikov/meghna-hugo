@@ -10,7 +10,7 @@ team:
     content: ''
     social:
     - icon: ti-link
-      link: (https://www.markdownguide.org) 
+      link: "https://www.ekahau.com/training/ecse-design" 
   - name: Cisco CCNP Enterprise (ENCOR)
     image_webp: images/team/CCNP.webp
     image: images/team/CCNP.jpg
@@ -19,7 +19,7 @@ team:
     content: ''
     social:
     - icon: ti-link
-      link: https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/professional/ccnp-enterprise.html
+      link: "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/professional/ccnp-enterprise.html"
   - name: Cisco ENWLSD
     image_webp: images/team/Specialist.webp
     image: images/team/Specialist.jpg
@@ -27,7 +27,7 @@ team:
     content: ''
     social:
     - icon: ti-link
-      link: https://www.cisco.com/c/en/us/training-events/training-certifications/training/training-services/courses/designing-cisco-enterprise-wireless-networks-enwlsd.html
+      link: "https://www.cisco.com/c/en/us/training-events/training-certifications/training/training-services/courses/designing-cisco-enterprise-wireless-networks-enwlsd.html"
   - name: Cisco ENWLSI
     image_webp: images/team/Specialist.webp
     image: images/team/Specialist.jpg
@@ -35,5 +35,5 @@ team:
     content: ''
     social:
     - icon: ti-link
-      link: https://www.cisco.com/c/en/us/training-events/training-certifications/training/training-services/courses/implementing-cisco-enterprise-wireless-networks-enwlsi.html
+      link: "https://www.cisco.com/c/en/us/training-events/training-certifications/training/training-services/courses/implementing-cisco-enterprise-wireless-networks-enwlsi.html"
 
