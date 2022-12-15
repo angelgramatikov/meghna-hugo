@@ -10,7 +10,7 @@ team:
     content: ''
     social:
     - icon: ti-link
-    link: (https://www.markdownguide.org) 
+     [text to link](https://www.markdownguide.org) 
   - name: Cisco CCNP Enterprise (ENCOR)
     image_webp: images/team/CCNP.webp
     image: images/team/CCNP.jpg
@@ -19,7 +19,7 @@ team:
     content: ''
     social:
     - icon: ti-link
-       (https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/professional/ccnp-enterprise.html)
+      link: https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/professional/ccnp-enterprise.html
   - name: Cisco ENWLSD
     image_webp: images/team/Specialist.webp
     image: images/team/Specialist.jpg
