@@ -71,6 +71,9 @@
       }(document, 'script', 'facebook-jssdk'));
     </script>
 	
+	<li><a href="{{ .URL | relLangURL }}"{{ if strings.HasPrefix .URL "http" }} target="_blank"{{ end }}>{{ .Name }}</a></li>
+
+
 	{{ end }}
 
 </head>
