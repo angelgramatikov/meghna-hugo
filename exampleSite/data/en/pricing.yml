@@ -5,7 +5,10 @@ pricing:
   pricing_table:
   - name: Predictive Planning
     price: 400 €
-    unit: month
+    unit: 'A predictive site survey is performed without field measurements and relies
+      on computer software, floor plans, and WiFi standards. An RF software simulates
+      the building and predicts the number of APs and locations needed to meet the
+      required coverage. '
     services:
     - 1GB Disk Space
     - 10 Email Account
