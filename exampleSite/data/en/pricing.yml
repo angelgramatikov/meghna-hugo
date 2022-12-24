@@ -3,8 +3,8 @@ pricing:
   enable: true
   title: Our Plans
   pricing_table:
-  - name: Free
-    price: "$99"
+  - name: Predictive Planning
+    price: 400 €
     unit: month
     services:
     - 1GB Disk Space
@@ -14,8 +14,8 @@ pricing:
     - 10 GB Bandwidth
     - 24/7 Tech Support
     button:
-      label: Signup
-      link: "#"
+      label: 'Contact us '
+      link: "#contact"
   - name: Silver
     price: "$149"
     unit: month
