@@ -20,7 +20,7 @@ service:
       coverage and signal strength to accurately predict your wireless performance
       and kit list. This is charged out at a daily rate. Once all the data has been
       collected, the engineer will draw up your detailed wireless report and live
-      heat maps.
+      heat maps.  [[Click here for more information]](https://wifi-surveys.eu/blog/pre-deployment-wi-fi-site-survey/)
   - name: Post Installation Wi-Fi Site Survey
     icon: ti-check-box
     content: You’ve planned your wireless network meticulously, you have undertaken
@@ -35,4 +35,4 @@ service:
       You may be experiencing interference, dead spots or connectivity issues to name
       but a few. We can use our wireless know-how, trained engineers and specialist
       software to analyse your site and perform and Troubleshooting and Health Check
-      exercise to find the source of and solution for your problems.[WLAN](https://wifi-surveys.eu/blog/requirements-gathering-applications/)
+      exercise to find the source of and solution for your problems.
