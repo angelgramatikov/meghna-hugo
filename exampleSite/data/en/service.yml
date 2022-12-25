@@ -5,20 +5,34 @@ service:
   service_item:
   - name: Predictive Wi-Fi Planning
     icon: ti-check-box
-    content: |-
-      A predictive Wi-Fi planning is based on layouts and drawings of the location or building. This information is then fed into a predictive survey software (Ekahau AI) which then provides estimates based on the information provided.
-
-      This is a more cost-effective option if you are looking for a quick turnaround for estimated pricing for a Wi-Fi installation.
-  - name: Passive Wi-Fi Site Survey
+    content: Before any wireless project we recommend getting a Wi-Fi Predictive Planning.  We
+      will run your site plans through our special wireless software (Ekahau AI),
+      create your virtual RF environment and analyse your site. This allows us to
+      make some informed predictions of your AP count, signal level and signal-to-noise
+      ratio, which is all documented on a heat map report that you will be issued
+      with at the end.
+  - name: Pre-Deployment Wi-Fi Site Survey
     icon: ti-check-box
-    content: A physical walk-through of the site ensures that all factors that may
-      impact network performance are accounted for. The surveying tool (Ekahau AI)
-      is not connected to the Wi-Fi network during the walk-through and only listens
-      to the Wi-Fi environment. The survey software scans specific channels and networks
-      to measure signal strength, signal-to-noise ratios, and interference.
-  - name: Active Wi-Fi Site Survey
+    content: For larger or more complex sites, in addition to the predictive site
+      survey we recommend having a Pre-Deployment Hybrid Site Survey. This survey
+      requires one of our wireless engineers visiting your site and running a multitude
+      of wireless tests. They will measure for packet loss, maximum throughputs, signal
+      coverage and signal strength to accurately predict your wireless performance
+      and kit list. This is charged out at a daily rate. Once all the data has been
+      collected, the engineer will draw up your detailed wireless report and live
+      heat maps.
+  - name: Post Installation Wi-Fi Site Survey
     icon: ti-check-box
-    content: An active site survey is similar to a passive survey, but the survey
-      tool (Ekahau AI) is connected to the wireless access points. This allows for
-      an array of information to be gathered, like network traffic, round-trip-time
-      (RTT), throughput, and upload/download speeds.
+    content: You’ve planned your wireless network meticulously, you have undertaken
+      both the Wi-Fi Planning and Pre-Deployment Surveys and now your wireless is
+      up and running. The only way you can confirm that your network is providing
+      you with the predicted coverage, connectivity and capacity is to carry out a
+      Validation Survey, also referred to as a Post Installation Survey.
+  - name: Wi-Fi Troubleshooting and Health Check Survey
+    icon: ti-check-box
+    content: We have a lot of clients approach us with an existing wireless solution
+      that they have invested heavily in, but that isn’t delivering on its promises.
+      You may be experiencing interference, dead spots or connectivity issues to name
+      but a few. We can use our wireless know-how, trained engineers and specialist
+      software to analyse your site and perform and Troubleshooting and Health Check
+      exercise to find the source of and solution for your problems.
