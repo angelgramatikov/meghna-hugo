@@ -1,12 +1,14 @@
 ---
 service:
   enable: true
-  title: Our Services
+  title: Survey Types
   service_item:
-  - name: WordPress Theme
+  - name: Predictive Wi-Fi Planning
     icon: ti-fullscreen
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: |-
+      A predictive Wi-Fi planning is based on layouts and drawings of the location or building. This information is then fed into a predictive survey software (Ekahau AI) which then provides estimates based on the information provided.
+
+      This is a more cost-effective option if you are looking for a quick turnaround for estimated pricing for a Wi-Fi installation.
   - name: Responsive Design
     icon: ti-layout
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
