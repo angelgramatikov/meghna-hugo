@@ -1,57 +1,27 @@
 ---
 pricing:
-  enable: false
-  title: Our Plans
+  enable: true
+  title: Pricing
   pricing_table:
-  - name: Free
-    price: "$99"
-    unit: month
+  - name: Predictive Wi-Fi Planning
+    price: 400 €
+    unit: remote work
     services:
-    - 1GB Disk Space
-    - 10 Email Account
-    - Script Installer
-    - 1 GB Storage
-    - 10 GB Bandwidth
-    - 24/7 Tech Support
+    - A predictive planning is performed without field measurements and relies on
+      computer software, floor plans, and Wi-Fi standards. Ekahau AI simulates the
+      building and predicts the number of APs and locations needed to meet the required
+      coverage and capacity.
     button:
-      label: Signup
-      link: "#"
-  - name: Silver
-    price: "$149"
-    unit: month
+      label: 'Contact us '
+      link: "#contact"
+  - name: OnSite Wi-Fi Survey
+    price: No Fixed Price
+    unit: onsite work
     services:
-    - 1GB Disk Space
-    - 10 Email Account
-    - Script Installer
-    - 1 GB Storage
-    - 10 GB Bandwidth
-    - 24/7 Tech Support
+    - We do a physical survey of the building to collect data this ensures that all
+      factors that may impact network performance are accounted for. We are using
+      Ekahau AI software which scans the complete RF environment and spectrum in the
+      specific physical area.
     button:
-      label: Signup
-      link: "#"
-  - name: Gold
-    price: "$199"
-    unit: month
-    services:
-    - 1GB Disk Space
-    - 10 Email Account
-    - Script Installer
-    - 1 GB Storage
-    - 10 GB Bandwidth
-    - 24/7 Tech Support
-    button:
-      label: Signup
-      link: "#"
-  - name: Platinum
-    price: "$299"
-    unit: month
-    services:
-    - 1GB Disk Space
-    - 10 Email Account
-    - Script Installer
-    - 1 GB Storage
-    - 10 GB Bandwidth
-    - 24/7 Tech Support
-    button:
-      label: Signup
-      link: "#"
+      label: 'Contact us '
+      link: "#contact"
