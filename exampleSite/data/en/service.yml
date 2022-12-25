@@ -10,7 +10,7 @@ service:
       create your virtual RF environment and analyse your site. This allows us to
       make some informed predictions of your AP count, signal level and signal-to-noise
       ratio, which is all documented on a heat map report that you will be issued
-      with at the end.
+      with at the end. [Click here for more information](https://wifi-surveys.eu/blog/predictive-wi-fi-planning/)
   - name: Pre-Deployment Wi-Fi Site Survey
     icon: ti-check-box
     content: For larger or more complex sites, in addition to the predictive site
