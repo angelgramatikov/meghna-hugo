@@ -23,5 +23,6 @@ fields:
   label: description
   description: meta description
 pages:
+- exampleSite/content/english/blog/pre-deployment-wi-fi-site-survey.md
 - exampleSite/content/english/blog/predictive-wi-fi-planning.md
 - exampleSite/content/english/blog/requirements-gathering-applications.md
