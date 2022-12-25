@@ -1,7 +1,7 @@
 ---
 service:
   enable: true
-  title: Survey Types
+  title: Wi-Fi Survey Types
   service_item:
   - name: Predictive Wi-Fi Planning
     icon: ti-check-box
