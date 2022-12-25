@@ -1,7 +1,7 @@
 ---
 service:
   enable: true
-  title: Survey Types
+  title: ''
   service_item:
   - name: Predictive Wi-Fi Planning
     icon: ti-fullscreen
