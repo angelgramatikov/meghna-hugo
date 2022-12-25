@@ -27,7 +27,8 @@ service:
       both the Wi-Fi Planning and Pre-Deployment Surveys and now your wireless is
       up and running. The only way you can confirm that your network is providing
       you with the predicted coverage, connectivity and capacity is to carry out a
-      Validation Survey, also referred to as a Post Installation Survey.
+      Validation Survey, also referred to as a Post Installation Survey. [[Click here
+      for more information]](https://wifi-surveys.eu/blog/post-installation-wi-fi-site-survey/)
   - name: Wi-Fi Troubleshooting and Health Check Survey
     icon: ti-check-box
     content: We have a lot of clients approach us with an existing wireless solution
