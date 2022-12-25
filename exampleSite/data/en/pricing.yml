@@ -15,7 +15,7 @@ pricing:
       label: 'Contact us '
       link: "#contact"
   - name: OnSite Wi-Fi Survey
-    price: No Fixed Price
+    price: Not Fixed
     unit: onsite work
     services:
     - We do a physical survey of the building to collect data this ensures that all
