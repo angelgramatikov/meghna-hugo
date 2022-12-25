@@ -19,10 +19,14 @@ service:
       measure signal strength, signal-to-noise ratios, and interference. \n\nPassive
       site surveys are performed once a space is built, both before a network is operational
       and routinely after going live to monitor and assess performance."
-  - name: Media &amp; Advertisement
+  - name: Active Wi-Fi Site Survey
     icon: ti-blackboard
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: "An active site survey is similar to a passive survey, but the survey
+      tool (Ekahau AI) is connected to the wireless access points. This allows for
+      an array of information to be gathered, like network traffic, round-trip-time
+      (RTT), throughput, and upload/download speeds. \n\nActive site surveys are usually
+      used to troubleshoot WiFi networks and measure the real-world performance of
+      your network."
   - name: Graphic Design
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
