@@ -20,8 +20,7 @@ pricing:
     services:
     - We do a physical survey of the building to collect data this ensures that all
       factors that may impact network performance are accounted for. We are using
-      Ekahau AI software which scans the complete RF environment and spectrum in the
-      specific physical area.
+      Ekahau AI software which scans the complete RF environment and spectrum.
     button:
       label: 'Contact us '
       link: "#contact"
