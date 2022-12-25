@@ -1,9 +1,9 @@
 ---
 pricing:
   enable: true
-  title: Our Plans
+  title: Pricing
   pricing_table:
-  - name: Predictive Planning
+  - name: Predictive Wi-Fi Planning
     price: 400 €
     unit: remote work
     services:
