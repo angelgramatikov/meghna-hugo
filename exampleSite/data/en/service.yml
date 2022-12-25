@@ -9,10 +9,16 @@ service:
       A predictive Wi-Fi planning is based on layouts and drawings of the location or building. This information is then fed into a predictive survey software (Ekahau AI) which then provides estimates based on the information provided.
 
       This is a more cost-effective option if you are looking for a quick turnaround for estimated pricing for a Wi-Fi installation.
-  - name: Responsive Design
+  - name: Passive Wi-Fi Site Survey
     icon: ti-layout
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: "In a passive site survey, we do a physical survey of the building to
+      collect data. A physical walk-through of the site ensures that all factors that
+      may impact network performance are accounted for. The surveying tool is not
+      connected to the WiFi network during the walk-through and only listens to the
+      WiFi environment. The survey software scans specific channels and networks to
+      measure signal strength, signal-to-noise ratios, and interference. \n\nPassive
+      site surveys are performed once a space is built, both before a network is operational
+      and routinely after going live to monitor and assess performance."
   - name: Media &amp; Advertisement
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
