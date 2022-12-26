@@ -2319,6 +2319,9 @@ figcaption {
   transition: 25ms ease-out;
   padding: 0.5em 0.75em;
   font-family: Helvetica Neue,Helvetica,Arial,sans-serif
+  position:relative;
+   left: 30%;
+   margin-top:10%;
   
 }
 
