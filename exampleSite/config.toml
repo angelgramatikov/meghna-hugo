@@ -92,7 +92,7 @@ author = "Angel Gramatikov"
 description = "Responsive Multipurpose Parallax Hugo Template"
 google_analytics_id = ""
 logo = "images/logo.png"
-post_share = false
+post_share = true
 [params.cookies]
 enable = true
 expire_days = 2
@@ -139,4 +139,3 @@ link = "https://www.linkedin.com/company/wifi-surveys-eu"
 [[params.social]]
 icon = "ti-calendar"
 link = "https://calendly.com/sales-wifi-surveys"
-
