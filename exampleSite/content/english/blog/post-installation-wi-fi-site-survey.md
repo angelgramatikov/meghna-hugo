@@ -19,12 +19,12 @@ You’ll receive a set of heat maps for your site providing an accurate visual r
 
 The validation site survey will accurately show details of your new installation, detailing:
 
-* Signal Strength
-* Signal-to-Noise Ratio
-* PHY Rates
-* Signal Coverage
-* Sources of Interference
-* Data Rates
+* **Signal Strength**
+* **Signal-to-Noise Ratio**
+* **PHY Rates**
+* **Signal Coverage**
+* **Sources of Interference**
+* **Data Rates**
 
 ### What will I get after the survey?
 
