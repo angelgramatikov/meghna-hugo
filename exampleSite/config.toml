@@ -4,7 +4,7 @@ disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
-title = "wifi-surveys.eu"
+title = "Professional Wi-Fi Planning & Site Survey"
 [Languages.en]
 contentDir = "content/english"
 copyright = "All rights reserved. &copy; 2022 wifi-surveys.eu"
