@@ -139,3 +139,12 @@ link = "https://www.linkedin.com/company/wifi-surveys-eu"
 [[params.social]]
 icon = "ti-calendar"
 link = "https://calendly.com/sales-wifi-surveys"
+
+# .config.toml
+...
+enableRobotsTXT = true
+canonifyURLs = true
+# and if you think your md file names or locations might change:
+[permalinks]
+    post = "/blog/:title/"
+...
