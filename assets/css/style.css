@@ -2030,7 +2030,7 @@ figcaption {
 .resp-sharing-button__link {
   text-decoration: none;
   color: #fff;
-  margin: 4.5em
+  margin: 4.7em
  
   
  
@@ -2042,7 +2042,7 @@ figcaption {
   padding: 0.5em 0.75em;
   font-family: "space grotesk",sans-serif;
   position:absolute;
-  bottom:320px;
+  bottom:340px;
 }
 
 .resp-sharing-button__icon svg {
