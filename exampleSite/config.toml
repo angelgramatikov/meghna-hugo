@@ -92,9 +92,9 @@ author = "Angel Gramatikov"
 description = "Responsive Multipurpose Parallax Hugo Template"
 google_analytics_id = ""
 logo = "images/logo.png"
-post_share = false
+post_share = true
 [params.cookies]
-enable = true
+enable = false
 expire_days = 2
 [params.map]
 enable = false
@@ -124,8 +124,6 @@ link = "plugins/shuffle/shuffle.min.js"
 link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
 [[params.plugins.js]]
 link = "plugins/lazy-load/lozad.min.js"
-[[params.plugins.js]]
-link = "plugins/google-map/map.js"
 [params.preloader]
 enable = false
 preloader = "images/preloader.png"
@@ -139,4 +137,3 @@ link = "https://www.linkedin.com/company/wifi-surveys-eu"
 [[params.social]]
 icon = "ti-calendar"
 link = "https://calendly.com/sales-wifi-surveys"
-
