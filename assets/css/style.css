@@ -2036,7 +2036,8 @@ figcaption {
   padding: 0.5em 0.75em;
   font-family: "space grotesk",sans-serif;
   position: relative;
-  padding: 240px 0 170px;
+  top: 20px;
+
 }
 
 .resp-sharing-button__icon svg {
