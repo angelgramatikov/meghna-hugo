@@ -5,32 +5,30 @@ about:
   about_item:
   - icon: ti-target
     title: 1. Consult
-    content: "Let’s talk about what matters to you\n \nDuring the consultation stage
-      we want to understand the challenges you face and work with you to discuss the
-      options available and work towards a viable solution. "
+    content: 'During the consultation stage we want to understand the challenges you
+      face and work with you to discuss the options available and work towards a viable
+      solution. '
   - icon: ti-list-ol
     title: 2. Plan
-    content: "Every project needs a plan\n \nA successful project starts with a detailed
-      plan and understanding of the task at hand. We will review all aspects of the
-      project and define our responsibilities and milestones."
+    content: A successful project starts with a detailed plan and understanding of
+      the task at hand. We will review all aspects of the project and define our responsibilities
+      and milestones.
   - icon: ti-pencil-alt
     title: 3. Design
-    content: "We put the plan into action\n \n\nDuring the design stage we engage
-      with our engineering team to design your new solution against the outlined requirements.
-      This may require topology design, site visits and surveys. "
+    content: 'During the design stage we engage with our engineering team to design
+      your new solution against the outlined requirements. This may require topology
+      design, site visits and surveys. '
   - icon: ti-panel
     title: 4. Integrate
-    content: "Experience is key to successful integration\n\nOur technical and installation
-      engineers are extremely experienced all across the network. This experience
-      and understanding is fundamental in order to integrate our solution(s) within
-      your environment. "
+    content: 'Our technical and installation engineers are extremely experienced all
+      across the network. This experience and understanding is fundamental in order
+      to integrate our solution(s) within your environment. '
   - icon: ti-stamp
     title: 5. Review
-    content: "A chance to check everything is in order\n \nFollowing the integration
-      of your solution(s) our team will check that all the work has been completed
-      in accordance to the project plan, and that all works have been signed-off."
+    content: Following the integration of your solution(s) our team will check that
+      all the work has been completed in accordance to the project plan, and that
+      all works have been signed-off.
   - icon: ti-settings
     title: 6. Maintain
-    content: "Our service doesn’t stop there\n \nOnce the solution(s) is installed
-      our team of highly experienced engineers are on-hand to assist with the unexpected,
-      giving you peace-of-mind."
+    content: Once the solution(s) is installed our team of highly experienced engineers
+      are on-hand to assist with the unexpected, giving you peace-of-mind.
