@@ -2022,12 +2022,18 @@ figcaption {
 .resp-sharing-button__link,
 .resp-sharing-button__icon {
   display: inline-block
+  
+
+  
 }
 
 .resp-sharing-button__link {
   text-decoration: none;
   color: #fff;
-  margin: 0.5em
+  margin: 4.5em
+ 
+  
+ 
 }
 
 .resp-sharing-button {
@@ -2035,11 +2041,8 @@ figcaption {
   transition: 25ms ease-out;
   padding: 0.5em 0.75em;
   font-family: "space grotesk",sans-serif;
-  #bottom: 0;
-  #position: absolute;
-  position: relative;
-  top: 1000px;
-
+  position:absolute;
+  bottom:20px;
 }
 
 .resp-sharing-button__icon svg {
