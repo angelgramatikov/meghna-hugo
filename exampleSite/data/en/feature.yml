@@ -3,7 +3,7 @@ feature:
   enable: true
   image: images/backgrounds/ekahau-design.jpg
   image_webp: images/backgrounds/ekahau-design.webp
-  title: 'Critical Wireless Design Aspects and RF Design Process '
+  title: Our Approach
   content: |-
     Both capacity and coverage are important to our professional design. It is simple enough to cover the areas where signal is required, and it is undoubtedly an important factor.
 
