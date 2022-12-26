@@ -2035,8 +2035,10 @@ figcaption {
   transition: 25ms ease-out;
   padding: 0.5em 0.75em;
   font-family: "space grotesk",sans-serif;
-  position: relative;
-  top: 700px;
+  positioning: absolute; 
+  bottom: 0px;
+  #position: relative;
+  #top: 700px;
 
 }
 
