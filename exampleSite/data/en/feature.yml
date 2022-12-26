@@ -5,11 +5,7 @@ feature:
   image_webp: images/backgrounds/ekahau-design.webp
   title: Our Approach
   content: |-
-    Both capacity and coverage are important to our professional design. It is simple enough to cover the areas where signal is required, and it is undoubtedly an important factor.
-
-    Coverage, however, is simply insufficient.  The variety and quantity of devices being utilised, as well as the apps being used on those devices, are all taken into consideration while designing a wireless network. A competent hotel wireless solution does not mean to merely increase the number of access points and to cross your fingers.
-
-    A word of caution: adding more access points will likely cause more problems and cost money.
+    The foundation for a successful wireless network is a disciplined design approach. This should include documented requirements definitions, site surveys, RF engineering, staging, acceptance testing, and installation and commissioning procedures.
 
     For this reason, we have included the most crucial and significant components and methods we employ below.
   feature_item:
