@@ -1062,7 +1062,8 @@ a:hover {
 }
 
 .member-photo .mask {
-  background-color: rgba(255,111,0,.7);
+ # background-color: rgba(255,111,0,.7);
+  background-color: transparent;
   position: absolute;
   text-align: center;
   height: 100%;
