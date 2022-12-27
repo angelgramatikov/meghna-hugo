@@ -1,6 +1,6 @@
 ---
 title: Wi-Fi Capacity Design
-date: 
+date: 2020-01-15T01:00:00+00:00
 image_webp: "/images/blog/wifi-capacity-design.webp"
 image: "/images/blog/wifi-capacity-design.png"
 author: ''
