@@ -23,19 +23,19 @@ weight = "2"
 [[Languages.en.menu.main]]
 name = "vendors"
 url = "#vendors"
-weight = "6"
+weight = "3"
 [[Languages.en.menu.main]]
 name = "pricing"
 url = "#pricing"
-weight = "3"
+weight = "4"
 [[Languages.en.menu.main]]
 name = "blog"
 url = "#blog"
-weight = "4"
+weight = "5"
 [[Languages.en.menu.main]]
 name = "contact"
 url = "#contact"
-weight = "5"
+weight = "6"
 [Languages.fr]
 contentDir = "content/bulgarian"
 copyright = "всички права запазени &copy; 2022 wifi-surveys.eu"
