@@ -22,7 +22,7 @@ url = "#team"
 weight = "2"
 [[Languages.en.menu.main]]
 name = "vendors"
-url = "#team-copy"
+url = "#vendors"
 weight = "3"
 [[Languages.en.menu.main]]
 name = "pricing"
