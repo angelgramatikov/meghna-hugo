@@ -1,7 +1,7 @@
 ---
 title: Requirements Gathering - Wireless Infrastructure
-date: 2022-12-13T12:51:12.000+00:00
-author: wifi-ninja
+date: 2020-01-15T01:00:00+00:00
+author: ''
 image_webp: "/images/blog/requirements-gathering-wireless-infrastructure.webp"
 image: "/images/blog/requirements-gathering-wireless-infrastructure.png"
 description: wifi, design, requirements gathering, best practice
