@@ -1,7 +1,7 @@
 {{ $data := index site.Data site.Language.Lang }}
 
-{{ if $data.team.vendors.enable }}
-{{ with $data.team.vendors }}
+{{ if $data.vendors.team.enable }}
+{{ with $data.vendors.team }}
 {{"<!-- Start Our Team -->" | safeHTML}}
 <section id="team" class="section">
   <div class="container">
