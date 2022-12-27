@@ -17,9 +17,9 @@ team:
       (ENCOR)
     content: "[[Click here for more information]](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/professional/ccnp-enterprise.html)"
     social: []
-  - name: ''
-    image_webp: images/team/Ubiquiti.webp
-    image: images/team/Ubiquiti.jpg
+  - name: Fortinet
+    image_webp: images/team/Fortinet.webp
+    image: images/team/Fortinet.jpg
     designation: ''
     content: ''
     social: []
