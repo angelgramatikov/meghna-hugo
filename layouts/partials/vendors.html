@@ -1,9 +1,9 @@
 {{ $data := index site.Data site.Language.Lang }}
 
-{{ if $data.team.team.enable }}
-{{ with $data.team.team }}
-{{"<!-- Start Our Team -->" | safeHTML}}
-<section id="team" class="section">
+{{ if $data.vendors.vendors.enable }}
+{{ with $data.vendors.vendors }}
+{{"<!-- Start Our vendors -->" | safeHTML}}
+<section id="vendors" class="section">
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-lg-12">
@@ -16,10 +16,10 @@
       </div>
       {{"<!-- /section title -->" | safeHTML}}
 
-      {{ range .team_member}}
-      {{"<!-- team member -->" | safeHTML}}
+      {{ range .vendors_member}}
+      {{"<!-- vendors member -->" | safeHTML}}
       <div class="col-lg-3 col-md-6 col-12 wow fadeInDown" data-wow-duration="500ms">
-        <div class="team-member">
+        <div class="vendors-member">
           <div class="member-photo">
             {{"<!-- member photo -->" | safeHTML}}
             <img class="img-fluid lozad" data-src="{{ .image_webp | absURL }}" onerror="this.onerror=null;this.src='{{ .image | absURL }}'" alt="{{ .name }}">
@@ -42,11 +42,11 @@
           </div>
         </div>
       </div>
-      {{"<!-- end team member -->" | safeHTML}}
+      {{"<!-- end vendors member -->" | safeHTML}}
       {{ end }}
     </div>
   </div>
 </section>
-{{"<!-- /team -->" | safeHTML}}
+{{"<!-- /vendors -->" | safeHTML}}
 {{ end }}
 {{ end }}
