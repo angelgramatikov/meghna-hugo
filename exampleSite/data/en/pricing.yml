@@ -3,6 +3,11 @@ pricing:
   enable: true
   title: Pricing
   pricing_table:
+  - name: '2hr block support '
+    price: ''
+    unit: ''
+    services: []
+    button: ''
   - name: Predictive Wi-Fi Planning
     price: 400 €
     unit: remote work
