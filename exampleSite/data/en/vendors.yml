@@ -1,11 +1,8 @@
 ---
 team:
   enable: true
-  title: Vendors
-  content: |-
-    The foundation for a successful wireless network is a disciplined design approach. This should include documented requirements definitions, site surveys, RF engineering, staging, acceptance testing, and installation and commissioning procedures.
-
-    For this reason, we have included the most crucial and significant components and methods we employ below.
+  title: 'include (but not limited to):'
+  content: ''
   team_member:
   - name: Cisco
     image_webp: images/team/Cisco.webp
