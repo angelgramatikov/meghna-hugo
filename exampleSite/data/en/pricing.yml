@@ -3,11 +3,6 @@ pricing:
   enable: true
   title: Pricing
   pricing_table:
-  - name: complete design
-    price: ''
-    unit: ''
-    services: ''
-    button: ''
   - name: 30 minutes free call
     price: ''
     unit: ''
@@ -39,3 +34,8 @@ pricing:
     button:
       label: 'Contact us '
       link: "#contact"
+  - name: complete design
+    price: ''
+    unit: ''
+    services: ''
+    button: ''
