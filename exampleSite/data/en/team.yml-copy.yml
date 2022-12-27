@@ -1,7 +1,7 @@
 ---
 team:
   enable: true
-  title: Our Certifications
+  title: Vendors
   team_member:
   - name: ECSE
     image_webp: images/team/ECSE.webp
@@ -29,5 +29,5 @@ team:
     designation: Implementing Cisco Enterprise Wireless Networks
     content: "[[Click here for more information]](https://www.cisco.com/c/en/us/training-events/training-certifications/training/training-services/courses/implementing-cisco-enterprise-wireless-networks-enwlsi.html)"
     social: []
-title: team.yml-(copy)
+title: vendors.yml
 draft: true
