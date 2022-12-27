@@ -1,4 +1,6 @@
 ---
+- id: vendors
+  translation: Vendors
 - id: skill
   translation: Toolkit
 - id: blogTitle
