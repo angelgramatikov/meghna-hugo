@@ -1,6 +1,6 @@
 ---
 team:
-  enable: false
+  enable: true
   title: Vendors
   team_member:
   - name: ECSE
