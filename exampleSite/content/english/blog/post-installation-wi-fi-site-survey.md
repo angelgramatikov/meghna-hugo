@@ -1,6 +1,6 @@
 +++
-author = "wifi-ninja"
-date = 2020-01-15T00:00:00Z
+author = ""
+date = 2020-01-15T01:00:00Z
 description = ""
 image = "/images/ekahau-sidekick.jpg"
 image_webp = "/images/ekahau-sidekick.webp"
