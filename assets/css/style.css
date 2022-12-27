@@ -2014,7 +2014,7 @@ figcaption {
   text-align: center;
 }
 
-#back-to-top {
+.back-to-top {
   background: #ff6f00;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
