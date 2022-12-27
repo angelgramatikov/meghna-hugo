@@ -18,15 +18,6 @@
 
 
 
-      <div class="col-lg-6"></div>
-      <div class="row">
-        <h2>{{ .title | markdownify }}</h2>
-        <p>{{ .content | markdownify }}</p>
-      </div>
-
-
-
-
       {{ range .team_member}}
       {{"<!-- team member -->" | safeHTML}}
       <div class="col-lg-3 col-md-6 col-12 wow fadeInDown" data-wow-duration="500ms">
