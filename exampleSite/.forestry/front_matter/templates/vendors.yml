@@ -1,0 +1,39 @@
+---
+label: vendors
+hide_body: true
+fields:
+- type: field_group
+  name: team
+  label: team
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: team_member
+    label: team_member
+    fields:
+    - type: text
+      name: name
+      label: name
+    - type: file
+      name: image_webp
+      label: image_webp
+    - type: file
+      name: image
+      label: image
+    - type: text
+      name: designation
+      label: designation
+    - type: text
+      name: content
+      label: content
+    - type: list
+      name: social
+      label: social
+    - type: text
+      name: link
+      label: link
