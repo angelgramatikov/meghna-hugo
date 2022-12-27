@@ -2,8 +2,6 @@
 team:
   enable: true
   title: Our Certifications
-  content: |-
-
   team_member:
   - name: ECSE
     image_webp: images/team/ECSE.webp
