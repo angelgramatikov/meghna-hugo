@@ -3,11 +3,11 @@ team:
   enable: true
   title: vendors
   team_member:
-  - name: ECSE
-    image_webp: images/team/ECSE.webp
-    image: images/team/ECSE.png
-    designation: Ekahau ECSE Design
-    content: "[[Click here for more information]](https://www.ekahau.com/training/ecse-design)"
+  - name: test
+    image_webp: ''
+    image: ''
+    designation: ''
+    content: ''
     social: []
     link: ''
   - name: Cisco CCNP Enterprise (ENCOR)
