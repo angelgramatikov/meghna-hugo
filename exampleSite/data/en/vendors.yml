@@ -17,11 +17,11 @@ team:
       (ENCOR)
     content: "[[Click here for more information]](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/professional/ccnp-enterprise.html)"
     social: []
-  - name: Cisco ENWLSD
-    image_webp: images/team/Specialist.webp
-    image: images/team/Specialist.jpg
-    designation: The Designing Cisco Enterprise Wireless Networks (ENWLSD)
-    content: "[[Click here for more information]](https://www.cisco.com/c/en/us/training-events/training-certifications/training/training-services/courses/designing-cisco-enterprise-wireless-networks-enwlsd.html)"
+  - name: ''
+    image_webp: images/team/Ubiquiti.webp
+    image: images/team/Ubiquiti.jpg
+    designation: ''
+    content: ''
     social: []
   - name: Cisco ENWLSI
     image_webp: images/team/Specialist.webp
