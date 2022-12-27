@@ -10,16 +10,15 @@ team:
     content: "[[Click here for more information]](https://www.ekahau.com/training/ecse-design)"
     social: []
     link: ''
-  - name: Cisco CCNP Enterprise (ENCOR)
-    image_webp: images/team/CCNP.webp
-    image: images/team/CCNP.jpg
-    designation: Implementing and Operating Cisco Enterprise Network Core Technologies
-      (ENCOR)
-    content: "[[Click here for more information]](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/professional/ccnp-enterprise.html)"
+  - name: Meraki
+    image_webp: images/team/Meraki.webp
+    image: images/team/Meraki.png
+    designation: ''
+    content: ''
     social: []
   - name: Fortinet
     image_webp: images/team/Fortinet.webp
-    image: images/team/Fortinet.jpg
+    image: images/team/Fortinet.png
     designation: ''
     content: ''
     social: []
