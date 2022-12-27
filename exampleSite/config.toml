@@ -21,6 +21,10 @@ name = "certfications"
 url = "#team"
 weight = "2"
 [[Languages.en.menu.main]]
+name = "vendors"
+url = "#vendors"
+weight = "6"
+[[Languages.en.menu.main]]
 name = "pricing"
 url = "#pricing"
 weight = "3"
