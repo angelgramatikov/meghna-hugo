@@ -1,5 +1,5 @@
 +++
-author = "wifi-ninja"
+author = ""
 date = 2020-01-15T01:00:00Z
 description = ""
 image = "/images/wifi-survey-facebook-ads.jpg"
