@@ -8,7 +8,7 @@ fields:
 - type: datetime
   name: date
   label: date
-  hidden: false
+  hidden: true
 - type: text
   name: author
   label: author
