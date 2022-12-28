@@ -1,6 +1,6 @@
 ---
 pricing:
-  enable: true
+  enable: false
   title: Pricing
   pricing_table:
   - name: 30 Minutes Free Consultation
