@@ -9,7 +9,7 @@ pricing:
     services: [Book a free 30 minutes consultation call, this call will help us determine what you need—based on your current situation and your goals—and if working together makes sense]
     button:
       label: 'Book a Call'
-      link: "#https://calendly.com/sales-wifi-surveys"
+      link: "https://calendly.com/sales-wifi-surveys"
   - name: Predictive Wi-Fi Planning
     price: 400 €
     unit: remote work
