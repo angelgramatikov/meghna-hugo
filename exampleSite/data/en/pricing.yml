@@ -4,12 +4,12 @@ pricing:
   title: Pricing
   pricing_table:
   - name: 30 Minutes Free Consultation
-    price: 400 €
-    unit: ''
-    services:
-    - test
+    price: Free
+    unit: remote
+    services: []
     button:
-      label: 'contact us '
+      label: 'Contact us '
+      link: "#contact"
   - name: Predictive Wi-Fi Planning
     price: 400 €
     unit: remote work
