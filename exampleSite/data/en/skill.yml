@@ -20,20 +20,4 @@ skill:
     easier than ever before. It allows seamless collaboration between IT personnel
     and the Wi-Fi expert."
   image: images/about/ekahau-connect.webp
-  skill_item:
-  - name: Passive & Active Site Surveys
-    percent: 100%
-  - name: Capacity Planning & Analysis
-    percent: 100%
-  - name: 3D Wi-Fi Planning
-    percent: 100%
-  - name: Survey & Troubleshooting Services
-    percent: 100%
-  - name: On the Spot Troubleshooting
-    percent: 100%
-  - name: Spectrum Analyzer
-    percent: 100%
-  - name: Checking non Wi-Fi Noise Frequencies
-    percent: 100%
-  - name: Fully Customised Report
-    percent: 100%
+  skill_item: []
