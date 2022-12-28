@@ -5,11 +5,24 @@ pricing:
   pricing_table:
   - name: 30 Minutes Free Consultation
     price: Free
-    unit: remote
-    services: [Book a free 30 minutes consultation call, this call will help us determine what you need—based on your current situation and your goals—and if working together makes sense]
+    unit: remote work
+    services:
+    - Book a free 30 minutes consultation call. This call will help us determine what
+      you need—based on your current situation and your goals—and if working together
+      makes sense.
     button:
-      label: 'Book a Call'
-      link: "https://calendly.com/sales-wifi-surveys"
+      label: Book a Call
+      link: https://calendly.com/sales-wifi-surveys
+  - name: 2 Hours Block Support
+    price: 200 €
+    unit: remote work
+    services:
+    - You may also be interested in purchasing our 2 hours block support which can
+      be in the form of consultancy. We can jump and help you troubleshoot a particular
+      issue or add new confirmation to your current setup.
+    button:
+      label: Contact Us
+      link: "#contact"
   - name: Predictive Wi-Fi Planning
     price: 400 €
     unit: remote work
@@ -30,4 +43,13 @@ pricing:
       Ekahau AI software which scans the complete RF environment and spectrum.
     button:
       label: 'Contact us '
+      link: "#contact"
+  - name: Complete Wi-Fi Design
+    price: Not Fixed
+    unit: remote or onsite work
+    services:
+    - In addition to the Wi-Fi surveys we can help with building up a complete design
+      for your new Wi-Fi environment.
+    button:
+      label: Contact us
       link: "#contact"
