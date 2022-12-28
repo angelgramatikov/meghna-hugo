@@ -3,6 +3,13 @@ pricing:
   enable: true
   title: Pricing
   pricing_table:
+  - name: Complete Wi-Fi Design
+    price: Not Fixed
+    unit: remote or onsite work
+    services: ''
+    button:
+      label: Contact us
+      link: "#contact"
   - name: 2 Hours Block Support
     price: 200 €
     unit: remote
