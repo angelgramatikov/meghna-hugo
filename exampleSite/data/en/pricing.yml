@@ -9,7 +9,7 @@ pricing:
     services:
     - Book a free 30 minutes consultation call. This call will help us determine what
       you need—based on your current situation and your goals—and if working together
-      makes sense
+      makes sense.
     button:
       label: Book a Call
       link: https://calendly.com/sales-wifi-surveys
@@ -19,7 +19,7 @@ pricing:
     services:
     - You may also be interested in purchasing our 2 hours block support which can
       be in the form of consultancy. We can jump and help you troubleshoot a particular
-      issue or add new confirmation to your current setup
+      issue or add new confirmation to your current setup.
     button:
       label: Contact Us
       link: "#contact"
@@ -49,7 +49,7 @@ pricing:
     unit: remote or onsite work
     services:
     - In addition to the Wi-Fi surveys we can help with building up a complete design
-      for your new Wi-Fi environment..
+      for your new Wi-Fi environment.
     button:
       label: Contact us
       link: "#contact"
