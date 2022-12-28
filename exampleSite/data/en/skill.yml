@@ -37,8 +37,7 @@ skill:
     percent: 100%
   - name: Fully Customised Report
     percent: 100%
-
-    ---
+    
 team:
   enable: true
   title: Vendors
