@@ -4,15 +4,12 @@ pricing:
   title: Pricing
   pricing_table:
   - name: 30 Minutes Free Consultation
-    price: ''
+    price: 400 €
     unit: ''
-    services: ''
-    button: ''
-  - name: 2 Hours Block Support
-    price: ''
-    unit: ''
-    services: ''
-    button: ''
+    services:
+    - test
+    button:
+      label: 'contact us '
   - name: Predictive Wi-Fi Planning
     price: 400 €
     unit: remote work
@@ -34,8 +31,3 @@ pricing:
     button:
       label: 'Contact us '
       link: "#contact"
-  - name: 'Complete Wi-Fi Design '
-    price: ''
-    unit: ''
-    services: ''
-    button: ''
