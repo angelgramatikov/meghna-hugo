@@ -48,7 +48,6 @@
 
 
 
-
 {{ $data := index site.Data site.Language.Lang }}
 
 {{ if $data.vendors.team.enable }}
@@ -66,9 +65,7 @@
         </div>
       </div>
       {{"<!-- /section title -->" | safeHTML}}
-
-
-
+	  
       {{ range .team_member}}
       {{"<!-- team member -->" | safeHTML}}
       <div class="col-lg-3 col-md-6 col-12 wow fadeInDown" data-wow-duration="500ms">
@@ -103,6 +100,8 @@
 {{"<!-- /team -->" | safeHTML}}
 {{ end }}
 {{ end }}
+
+
 
 
 
