@@ -40,34 +40,3 @@ portfolio:
     categories: []
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
-
-    team:
-  enable: true
-  title: Vendors
-  content: |-
-  team_member:
-  - name: Cisco
-    image_webp: images/team/Cisco.webp
-    image: images/team/Cisco.png
-    designation: ''
-    content: ''
-    social: []
-    link: ''
-  - name: Meraki
-    image_webp: images/team/Meraki.webp
-    image: images/team/Meraki.png
-    designation: ''
-    content: ''
-    social: []
-  - name: Fortinet
-    image_webp: images/team/Fortinet.webp
-    image: images/team/Fortinet.png
-    designation: ''
-    content: ''
-    social: []
-  - name: Ubiquiti
-    image_webp: images/team/Ubiquiti.webp
-    image: images/team/Ubiquiti.jpg
-    designation: ''
-    content: ''
-    social: []
